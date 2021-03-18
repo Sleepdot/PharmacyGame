@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8692266415717367573
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8692266415717367574}
+  - component: {fileID: 1276092826979675526}
+  m_Layer: 0
+  m_Name: L1P1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8692266415717367574
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8692266415717367573}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.675714, y: 0.36419195, z: -4.7929688}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1276092826979675526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8692266415717367573}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1584c729f2a208c4591e5e0c49b5fd8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waveDescriptions: []
+  patientDescrition: 'Sex: Male
+
+    Age: 35
+
+    Symptoms: Hives'
+  level: 0
+  patient: {fileID: 0}
+  currentWave: 0
+  isWaveComplete: 0
+  allEnemiesGenerated: 0
+  waveNumText: {fileID: 0}
+  descriptionText: {fileID: 0}
+  patientDescriptionText: {fileID: 0}
+  hivesEnemy: {fileID: 4811154765403014625, guid: 93941697a4de2114785b4679ea97e96b,
+    type: 3}
+  strepEnemy: {fileID: 7817490462598390031, guid: 47f340eb4f3e6b443bf08a62315dbdf7,
+    type: 3}
+  urticariaEnemy: {fileID: 6602574808039224299, guid: ffe5eef737d4b4040987dc6069433b7d,
+    type: 3}

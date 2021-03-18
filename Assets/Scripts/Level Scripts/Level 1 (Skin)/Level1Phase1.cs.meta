@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1584c729f2a208c4591e5e0c49b5fd8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - patient: {instanceID: 0}
+  - waveNumText: {instanceID: 0}
+  - descriptionText: {instanceID: 0}
+  - hivesEnemy: {fileID: 4811154765403014625, guid: 93941697a4de2114785b4679ea97e96b,
+      type: 3}
+  - strepEnemy: {fileID: 7817490462598390031, guid: 47f340eb4f3e6b443bf08a62315dbdf7,
+      type: 3}
+  - urticariaEnemy: {fileID: 6602574808039224299, guid: ffe5eef737d4b4040987dc6069433b7d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

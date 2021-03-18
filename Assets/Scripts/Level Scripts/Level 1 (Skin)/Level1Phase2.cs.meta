@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7881cd93aed348342844fc6ec33b84e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - patient: {instanceID: 0}
+  - waveNumText: {instanceID: 0}
+  - descriptionText: {instanceID: 0}
+  - itchEnemy: {fileID: 4811154765403014625, guid: b2dc6e18f916d9e419a75e14403fe078,
+      type: 3}
+  - rashEnemy: {fileID: 7817490462598390031, guid: ab9545ad3bd41ab418e8d7e3c20a9514,
+      type: 3}
+  - poisonIvyEnemy: {fileID: 6602574808039224299, guid: f339b13cb0dd63741b64e39817ef433d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

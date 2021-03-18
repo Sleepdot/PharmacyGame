@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 06fe66f6de02e5249ba3eef3482e555e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - patient: {instanceID: 0}
+  - waveNumText: {instanceID: 0}
+  - descriptionText: {instanceID: 0}
+  - itchingEnemy: {fileID: 4811154765403014625, guid: b2dc6e18f916d9e419a75e14403fe078,
+      type: 3}
+  - painEnemy: {fileID: 7817490462598390031, guid: c70783ef6529cc043a9a386f1b21a851,
+      type: 3}
+  - anaphylaxisEnemy: {fileID: 6602574808039224299, guid: ffe5eef737d4b4040987dc6069433b7d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
